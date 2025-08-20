@@ -1,0 +1,68 @@
+.black{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.white{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-bottom: -100px;
+}
+
+/* body{
+    background-color: rgb(234, 178, 11);
+} */
+
+/* input{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+input{
+    position: relative;
+    top: -200px;
+    left: 205px;
+} */
+ /* navbar concept
+li{
+    display: inline-block;
+    width: 100px;
+   color: white;
+}
+
+ul{
+    background-color: green; */
+   /* position: fixed; */
+   /* position: sticky;
+   top: 0px;
+} */
+
+/* #mud{ */
+    /* position: absolute; */
+    /* position: fixed;
+    bottom: 20px;
+    right: 20px;
+} */
+
+div{
+    border: 2px solid black;
+width: 20%;
+border-radius: 10px;
+}
+
+.end{
+    width: 100%;
+    border-radius: 10px;
+}
+
+h1{
+    background-color: aqua;
+    color: green;
+    position: relative;
+    top:-100px;
+    left: 0px;
+}

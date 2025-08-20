@@ -1,0 +1,30 @@
+h2{
+    color: darkgreen;
+    background-color: red;
+}
+
+a{
+    background-color: aqua;
+}
+
+p{
+    /* font-size: 100px; */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+}
+
+#ABC{
+    color: rgb(79, 109, 109);
+}
+
+.MUD{
+    color: blue;
+}
+
+
+
+
+
+
+
+

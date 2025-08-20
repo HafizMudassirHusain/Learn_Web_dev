@@ -1,0 +1,75 @@
+.abc{
+display: inline-block;
+position: relative;
+top: 0px;
+left: 220px;
+}
+
+
+
+
+
+li{
+    display: inline-block;
+    width: 100px; 
+    text-align: center;
+    
+
+}
+
+ul{
+    /* background-color: aqua; */
+    position: sticky ;
+    top: 0px;
+    /* overflow: visible; */
+   padding: 5px; 
+    margin: 70px;
+       
+}
+
+.mud{
+    color: gray;
+}
+
+.card{
+    z-index: -9999;
+}
+.inin:hover{
+    background-color: antiquewhite;
+}
+
+.onon{
+    background-color: gold;
+}
+
+
+
+.onon:hover{
+    background-color: green;
+}
+
+.card-body{
+    background-color: lightgreen;
+}
+
+h5{
+color: blueviolet;
+}
+
+.car-d{
+    background-color: chartreuse;
+}
+
+.third{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+

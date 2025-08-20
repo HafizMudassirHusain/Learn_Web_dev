@@ -1,0 +1,119 @@
+
+
+#srh{
+border: 1px solid;
+width: 350px;
+height: 40px;
+background-image: url('data:image/png;base64,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');
+background-size: 40px;
+background-repeat: no-repeat;
+background-position: right;
+padding: right 100px;
+
+}
+
+nav{
+    background-color: bisque;
+    position: sticky;
+    
+}
+
+.col{
+    z-index: -9999;
+}
+
+
+
+
+.wel:hover{
+    color: blue;
+}
+
+.submit:focus{
+    background-color: black;
+    color: white;
+}
+
+
+form{
+    width: 50%;
+margin: 10px auto;
+text-align: center;
+
+}
+
+label{
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+label:hover{
+color: rgb(235, 0, 252);
+}
+
+.login{
+    color: black;
+}
+
+.sell{
+    border: 1px solid;
+    /* outline-style:5px solid red ; */
+}
+
+li{
+    display: inline-block;
+    /* width: 100%; */
+    padding: 5px;
+    margin-top: 0px;
+
+}
+
+li:hover{
+    color: rgb(110, 197, 168);
+}
+
+/* nav{
+    background-color: beige;
+} */
+
+#outl{
+    border: 4px solid;
+    width: 100px;
+    margin-left: 500px;
+}
+
+.allfooter{
+    display: inline-block;
+    height: 0px;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.f-img{
+    display: inline-block;
+    width: 40px;
+}
+
+#footerImage{
+    /* display: inline-block;
+    width: 0px auto;
+    padding: 2px; */
+ flex-direction: row;
+
+
+}
+    /* display: flex;
+    justify-content: center;
+} */
+
+/* #upper{
+    margin-right: 100px;
+} */
+
+.up{
+    display: flex;
+    justify-content: flex-end;
+    margin-top:10px ;
+    padding: auto;
+}

@@ -1,0 +1,115 @@
+
+body{
+    background-color: rgba(196, 141, 70, 0.753);
+}
+
+table,th,td{
+    border: 2px solid orangered;
+    padding: 5px;
+
+}
+
+table{
+    margin: 10px auto;
+    margin-top: 50px;
+    background-color: rgb(175, 207, 59);
+    box-shadow: 10px 10px 10px rgb(190, 113, 113);
+}
+
+
+.mud{
+    background-color: rgb(83, 81, 85);
+}
+.das{
+    background-color: rgb(139, 139, 173);
+}
+th{
+    background-color: rgb(196, 112, 129);
+}
+td:hover{
+    background-color: black;
+    color: white;
+}
+td,th{
+    border: 2px solid black;
+}
+
+th{
+    border: 2px solid black;
+}
+
+/* div{
+    background-color: aqua;
+} */
+
+/* .may{
+    background-color: rebeccapurple;
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 40px;
+margin-right: 40px ;
+padding-left: 20px;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+border: 3px solid black; */
+/* border: 3px dotted black; */
+/* box-shadow: 10px 10px 10px purple; */
+/* box-shadow: -10px -10px 10px purple; */
+/* text-align: left; */
+/* text-align: right; */
+/* text-align: center; */
+/* text-align: justify; */
+/* text-shadow: 10px 10px 10px pink; */
+/* margin: 100px auto;
+padding: 20px;
+
+} */
+
+button{
+    background-color: rgb(53, 66, 66);
+    font-weight:bolder;
+    font-size:small;
+    font-style: oblique;
+color: rgb(176, 216, 65);
+width: 20%;
+height: 40px;
+border: 10px solid black;
+border-style:outset ;
+box-shadow: 10px 10px 5px  rgb(77, 67, 67);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+button:hover{
+    background-color: rgb(164, 199, 61);
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

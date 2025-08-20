@@ -1,0 +1,46 @@
+.abc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{  
+    text-shadow: 10px 10px 10px white;
+    margin-top: 20px ;
+    width: 50px;
+    color:white;
+    box-shadow: 5px 5px 5px blue;
+}
+.btn{
+    display: flex;
+    justify-content: center;    
+    border: 2px solid white;
+    width: 250px ;
+    margin-top: 10px;
+    margin-left: 80px; 
+    text-shadow: 3px 3px 3px white;
+    box-shadow: 5px 5px 10px white;
+}
+button{
+    padding: 10px auto;
+    background-color:blue;
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+div{
+    border: 2px solid white;
+    width: 250px ;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+
+
+
+
+
+
+
+
+
